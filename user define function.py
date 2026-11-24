@@ -17,7 +17,7 @@ def value (a,b,c):
                   d=a+b+c
                   print(d)
                   number = [5,10,15,20,25,30]
-                  print(number[3]
+                  print(number[3])
                   for i in range (1,21):
                            print(i)
                            i=i+1
