@@ -1,1 +1,2 @@
-print("hello world")
+a=[14,25,96,85,58,47]
+print(a[2])
