@@ -4,7 +4,7 @@ def number ():
               c=a+b
               print(c)
               name = ["ravi","sonu","rohit"]
-              print(name[1]
+              print(name[1])
               for i in range (1,11):
               print(i)
               i=i+1
